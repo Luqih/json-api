@@ -1,0 +1,36 @@
+{
+"userData": {
+"iat": "data",
+"email": "data",
+"name": "data",
+"aud": "data",
+"iss": "data",
+"user_id": "data",
+"sub": "data",
+"firebase": {
+"sign_in_provider": "data",
+"identities": {
+"email": [
+"data"
+],
+"google.com": [
+"data"
+]
+}
+},
+"picture": "data",
+"auth_time": "data",
+"email_verified": "data",
+"uid": "data",
+"exp": "data"
+},
+"vuSecurity": {
+"currentStep": "data",
+"operationId": "data",
+"selfies": {
+"smiling": "data",
+"neutral": "data",
+"closedeyes": "data"
+}
+}
+}
