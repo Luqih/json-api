@@ -8,15 +8,15 @@
 "user_id": "data",
 "sub": "data",
 "firebase": {
-"sign_in_provider": "data",
 "identities": {
-"email": [
-"data"
-],
 "google.com": [
 "data"
+],
+"email": [
+"data"
 ]
-}
+},
+"sign_in_provider": "data"
 },
 "picture": "data",
 "auth_time": "data",
@@ -25,12 +25,108 @@
 "exp": "data"
 },
 "vuSecurity": {
-"currentStep": "data",
 "operationId": "data",
 "selfies": {
+"closedeyes": "data",
 "smiling": "data",
-"neutral": "data",
-"closedeyes": "data"
+"neutral": "data"
+},
+"endOperationData": {
+"confidenceDocument": 0,
+"confidence": 0,
+"code": "data",
+"ocr": {
+"birthdate": "data",
+"gender": "data",
+"lastNames": "data",
+"number": "data",
+"names": "data",
+"extra": {
+"mrz": "data",
+"additional": "data"
+}
+},
+"message": "data",
+"confidenceTotal": 0,
+"identical": false,
+"anomalies": {
+"textValidationsDocument": "",
+"textValidationsOcr": "",
+"textValidationsDocumentData": "",
+"areaValidations": "data",
+"textValidationsMrz": "",
+"textValidationsTotal": "",
+"areaValidationsDocumentAnomalies": ""
+},
+"operationStatusId": "data"
+},
+"currentStep": "data"
+},
+"nosis": {
+"CI_Bancarizado": "data",
+"VI_Act01_Cod": "data",
+"CI_Vig_Total_Monto": "data",
+"CQ_24m_Cant": "data",
+"VI_Empleador_Es": "data",
+"cuil": "data",
+"VI_Empleador_Empleados_Cant": "data",
+"RC_Vig_Cant": "data",
+"DF_Tiene": "data",
+"VI_Inscrip_Autonomo": "",
+"VI_Inscrip_IVA_Condicion": "data",
+"VI_Inscrip_Monotributo_Es": "data",
+"SRT_Estado": "",
+"HC_24m_SF_SinPagMulta_Cant": "data",
+"HC_24m_SF_NoPag_Cant": "data",
+"VI_DomAF_Prov": "data",
+"VI_Edad": "data",
+"CO_1m_Banca_Cant": "data",
+"CO_1m_Finan_Cant": "data",
+"AP_Vig_Empleado_DeclaracionJurada": "data",
+"JU_24m_Cant": "data",
+"PQ_24m_Cant": "data",
+"VI_RazonSocial": "data",
+"VI_Fallecido_Es": "data",
+"score": "data",
+"CO_12m_Cant": "data",
+"CI_Antiguedad": "data",
+"VI_Sexo": "data",
+"JU_60m_Cant": "data",
+"AP_Vig_Empleador_Estado_Cod": "data",
+"AP_Vig_Empleado_Estado_Cod": "data",
+"VI_Inscrip_GCIA_Condicion": "data",
+"CO_1m_Otros_Cant": "data",
+"VI_Inscrip_Autonomo_Es": "data",
+"NSE": "data",
+"CI_Vig_CompMensual": "data",
+"VI_Act01_Sector": "data",
+"VI_AntiguedadLaboral": "data",
+"VI_Jubilado_Es": "data",
+"CI_Vig_Total_CantBcos": "data",
+"VI_Empleado_Es": "data",
+"VI_Inscrip_Monotributo": "data",
+"VI_DomAF_CP": "data",
+"NSE_Percentil": "data",
+"SSS_OS_Cod": ""
+},
+"veraz": {
+"Peor_status_actual_BCRA": "data",
+"cant_cheques_rech_ult_12_meses": "data",
+"DU_CUIT": "data",
+"cant_morosidad_NO_REG_b_abierta_24m": "data",
+"Ultimo_trabajo_registrado": "data",
+"concursos_y_quiebras_60_meses": "data",
+"Personas_a_cargo_segun_O_Social": "data",
+"Validacion_del_Documento": "data",
+"Peor_status_actual_Bureau": "data",
+"poblacion": "data",
+"categoria": "data",
+"cant_juicios_12_meses": "data",
+"explicacion_validacion": "data",
+"Peor_status_12m_BCRA": "data",
+"Peor_status_12m_Bureau": "data",
+"Informado_hasta__Inf_Laboral_": "data",
+"score_veraz": "data"
 }
 }
-}
+
